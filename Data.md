@@ -35,3 +35,9 @@ The european amphioxus genome assembly and annotation are available as a [UCSC t
 - set up the hub by adding the hub address `http://zoo-animalia.zoo.ox.ac.uk/braLan/hub.txt` to `My Data > Track Hubs > My hubs` in UCSC menu. 
 
 ## Blast server
+
+A blast server is accessible with the assembly, the reference transcripts and proteins. 
+
+
+
+
