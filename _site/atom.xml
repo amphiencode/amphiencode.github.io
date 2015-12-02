@@ -4,7 +4,7 @@
  <title>Amphiencode</title>
  <link href="http://amphiencode.github.io/atom.xml" rel="self"/>
  <link href="http://amphiencode.github.io/"/>
- <updated>2015-12-02T16:00:35+00:00</updated>
+ <updated>2015-12-02T16:18:20+00:00</updated>
  <id>http://amphiencode.github.io</id>
  <author>
    <name>F. Marlétaz</name>
@@ -13,11 +13,13 @@
 
  
  <entry>
-   <title>New site</title>
-   <link href="http://amphiencode.github.io//2015/01/03/New-website/"/>
-   <updated>2015-01-03T00:00:00+00:00</updated>
-   <id>http://amphiencode.github.io/2015/01/03/New website</id>
-   <content type="html">&lt;p&gt;Ok, this is it! I felt that I really had to try the jekyll engined, github hosted website. So be it, I will progressively include more information about ongoing research projects, and news. &lt;/p&gt;
+   <title>We go public!</title>
+   <link href="http://amphiencode.github.io//2015/12/02/We-go-public/"/>
+   <updated>2015-12-02T00:00:00+00:00</updated>
+   <id>http://amphiencode.github.io/2015/12/02/We go public</id>
+   <content type="html">&lt;p&gt;We decided to release the assembly and annotation of the &lt;em&gt;B. lanceolatum&lt;/em&gt; genome (see &lt;a href=&quot;http://amphiencode.github.io/Data&quot;&gt;Data&lt;/a&gt; and we also put this website online because we felt some information about these datasets was necessary, and it was the best way to provide it. We will update this site in the future with news of the project, related publications and corresponding  datasets . Please feel free to send us feedback about which improvement we can make, and which information you would like to see here!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://amphiencode.github.io/pics/e4.png&quot; alt=&quot;blanc&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
