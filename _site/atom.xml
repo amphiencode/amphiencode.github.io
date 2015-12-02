@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Amphiencode</title>
+ <link href="http://amphiencode.github.io/atom.xml" rel="self"/>
+ <link href="http://amphiencode.github.io/"/>
+ <updated>2015-12-02T14:56:10+00:00</updated>
+ <id>http://amphiencode.github.io</id>
+ <author>
+   <name>F. Marlétaz</name>
+   <email>ferdinand.marletaz@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>New site</title>
+   <link href="http://amphiencode.github.io//2015/01/03/New-website/"/>
+   <updated>2015-01-03T00:00:00+00:00</updated>
+   <id>http://amphiencode.github.io/2015/01/03/New website</id>
+   <content type="html">&lt;p&gt;Ok, this is it! I felt that I really had to try the jekyll engined, github hosted website. So be it, I will progressively include more information about ongoing research projects, and news. &lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

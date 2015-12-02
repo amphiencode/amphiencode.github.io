@@ -1,0 +1,30 @@
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Amphiencode
+tagline:          Functional genomics in cephalochordates
+url:              http://amphiencode.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           F. Marlétaz
+  url:            https://twitter.com/ferdix
+  email:          ferdinand.marletaz@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/amphiencode/amphiencode.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  Project: '/project/'
+  Data: '/Data/'
+  Publications: '/Publications/'
+  Contacts: '/Contacts/'
+  #Feed: '/atom.xml'
+  
+# Dependencies
+gems:             [jekyll-paginate]
