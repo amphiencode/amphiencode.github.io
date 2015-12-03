@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Labs
+title: Contacts
 ---
-
-## Contacts
 
 Please do not hesitate to contact us if you have a specific question: 
 
