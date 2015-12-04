@@ -31,7 +31,7 @@ A **[blast server](http://zoo-animalia.zoo.ox.ac.uk/blastseq04)** makes it possi
 
 ## Genome browser
 
-The european amphioxus genome assembly and annotation are available as a [UCSC track hub](https://genome.ucsc.edu/goldenPath/help/hgTrackHubHelp.html). The RNA-seq, ATAC-seq and Chip-seq available in the browser is not part of the bulk of genome data provided to the consortium and is a courtesy of JL Skarmeta's lab. To enable access, you can either: 
+The european amphioxus genome assembly and annotation are available as a [UCSC track hub](https://genome.ucsc.edu/goldenPath/help/hgTrackHubHelp.html). The assembly should be searchable using BLAT. The RNA-seq, ATAC-seq and Chip-seq available in the browser is not part of the bulk of genome data provided to the consortium and is a courtesy of JL Skarmeta's lab. To enable access, you can either: 
 
 - Use the [following UCSC session](http://genome-euro.ucsc.edu/cgi-bin/hgTracks?hgS_doOtherUser=submit&hgS_otherUserName=fmarletaz&hgS_otherUserSessionName=basic_braLan1) which includes gene models, RNAseq signal and methylation data. 
 
