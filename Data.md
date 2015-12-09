@@ -8,7 +8,7 @@ title: Data
 
 ## Datasets
 
-The genome of the european amphioxus *Branchiostoma lancealatum* was generated from 150x Illumina coverage sequenced by [Génoscope](http://www.genoscope.cns.fr). In the Bl71nemr assembly, haplotypes were reconcilied using haplomerger. 
+The genome of the european amphioxus *Branchiostoma lancealatum* was generated from 150x Illumina coverage sequenced by [Genoscope](http://www.genoscope.cns.fr). In the Bl71nemr assembly, haplotypes were reconcilied using haplomerger. 
 
 This assembly spans 495.3Mb (N50: 1.29Mb) split in 10,247 scaffolds with 4% of residual gaps. Masked regions are represented with lowercase characters (soft-masking); gaps in the assembly are represented with Ns.
 
@@ -16,12 +16,12 @@ The genome was annotated using both EVM/PASA pipeline and cufflinks/transdecoder
 
 |File   |Dataset   | Format |
 |---|---|---|
-| **[Bl71nemr.fa](https://www.dropbox.com/s/hoor1hcv90c2la7/Bl71nemr.fa.gz?dl=1)**  | Genome assembly  | fasta |
-| **[Bla_annot-final_v4.gtf](https://www.dropbox.com/s/a9605ohtf8ydxy8/Bla_annot-final_v4.gtf.gz?dl=1)** | Final merged annotation (EVM/PASA+cufflinks)  | GTF | 
-| **[Bla_annot_evm.gtf](https://www.dropbox.com/s/sc4r43dy5gl38g2/Bla_annot_evm.gtf.gz?dl=1)**| EVM/PASA annotation | GTF |
-| **[Bla_annot_cuff_v4.gtf](https://www.dropbox.com/s/mwxqtyxso9ds0oy/Bla_annot_cuff_v4.gtf.gz?dl=1)** | Cufflinks annotation | GTF |
-| **[Bla_annot-final_v4_refTr.fa](https://www.dropbox.com/s/p5mnsdru1bxkq4s/Bla_annot-final_v4_refTr.fa.gz?dl=1)**| Reference transcripts* | fasta |
-| **[Bla_annot-final_v4_refAa.fa](https://www.dropbox.com/s/rx29l9swyruj5kk/Bla_annot-final_v4_refAa.fa.gz?dl=1)**| Reference proteins** | fasta |
+| **[Bl71nemr.fa](https://www.dropbox.com/s/4bwtoi217oplwef/Bl71nemr.fa.gz?dl=1)**  | Genome assembly  | fasta |
+| **[Bla_annot_final.gtf](https://www.dropbox.com/s/q5zdshvos94r0pn/Bla_annot_final.gtf.gz?dl=1)** | Final merged annotation (EVM/PASA+cufflinks)  | GTF | 
+| **[Bla_annot_evm.gtf](https://www.dropbox.com/s/j3ul5orz1wj0v66/Bla_annot_evm.gtf.gz?dl=1)**| EVM/PASA annotation | GTF |
+| **[Bla_annot_cuff.gtf](https://www.dropbox.com/s/dtiql5qpjcoi9y3/Bla_annot_cuff.gtf.gz?dl=1)** | Cufflinks annotation | GTF |
+| **[Bla_annot_final_refTranscripts.fa](https://www.dropbox.com/s/a9zzzgqqy0fvskg/Bla_annot_final_refTranscripts.fa.gz?dl=1)**| Reference transcripts* | fasta |
+| **[Bla_annot_final_refProteins.fa](https://www.dropbox.com/s/hoyt0byn3a9pohz/Bla_annot_final_refProteins.fa.gz?dl=1)**| Reference proteins** | fasta |
 
 *(\*) most expressed transcript for each locus; (\*\*) longest protein for each locus*
 
