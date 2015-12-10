@@ -22,7 +22,7 @@ github:
 pages_list:       
   Project: '/Project/'
   Data: '/Data/'
-  Publications: '/Publications/'
+  #Publications: '/Publications/'
   Contacts: '/Contacts/'
   #Feed: '/atom.xml'
   

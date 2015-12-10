@@ -4,7 +4,7 @@ title: Data
 ---
 
 <div class="message">
-  <b><u>Disclaimer:</u> This dataset is made available to the members of the European amphioxus genome consortium as collaborative material. These datasets are not to be used for whole genome analyses unless otherwise agreed for, and not to be redistributed to anybody outside the consortium without prior arrangements.</b></div>
+  <b><u>Disclaimer:</u> This dataset is made available to the members of the European amphioxus genome consortium as collaborative material. These datasets are not to be used for whole genome analyses unless otherwise agreed for, and not to be redistributed to anybody outside the consortium without prior arrangements. The functional genomics data (ATAC-seq, Chip-seq, Methylation, RNA-seq) included in the browser are provided as a courtesy by several participant labs and remain their property (see contacts).</b></div>
 
 ## Datasets
 
@@ -31,10 +31,9 @@ A **[blast server](http://zoo-animalia.zoo.ox.ac.uk/blastseq04)** makes it possi
 
 ## Genome browser
 
-The European amphioxus genome assembly and annotation are available as a [UCSC track hub](https://genome.ucsc.edu/goldenPath/help/hgTrackHubHelp.html). The assembly should be searchable using BLAT. The methylation tracks available in the browser are not part of the bulk of genome data provided to the consortium and is a courtesy of Ozren Bogdanovic and Ryan Lister. To enable access, you can either: 
+The European amphioxus genome assembly and annotation are available as a [UCSC track hub](https://genome.ucsc.edu/goldenPath/help/hgTrackHubHelp.html). The assembly should be searchable using BLAT. To enable access, you can either: 
 
-- Use the [following UCSC session](http://genome-euro.ucsc.edu/cgi-bin/hgTracks?hgS_doOtherUser=submit&hgS_otherUserName=fmarletaz&hgS_otherUserSessionName=basic_braLan1) which includes gene models, RNAseq signal and methylation data. 
-
+- Use the [following UCSC session](http://genome-euro.ucsc.edu/cgi-bin/hgTracks?hgS_doOtherUser=submit&hgS_otherUserName=fmarletaz&hgS_otherUserSessionName=basic_braLan1) 
 - set up the hub by adding the hub address `http://zoo-animalia.zoo.ox.ac.uk/braLan/hub.txt` to `My Data > Track Hubs > My hubs` in UCSC menu. 
 
 

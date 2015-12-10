@@ -4,7 +4,7 @@
  <title>Amphiencode</title>
  <link href="http://amphiencode.github.io/atom.xml" rel="self"/>
  <link href="http://amphiencode.github.io/"/>
- <updated>2015-12-03T23:20:11+00:00</updated>
+ <updated>2015-12-10T13:49:05+00:00</updated>
  <id>http://amphiencode.github.io</id>
  <author>
    <name>F. Marlétaz</name>
@@ -17,7 +17,7 @@
    <link href="http://amphiencode.github.io//2015/12/02/We-go-public/"/>
    <updated>2015-12-02T00:00:00+00:00</updated>
    <id>http://amphiencode.github.io/2015/12/02/We go public</id>
-   <content type="html">&lt;p&gt;We decided to release the assembly and annotation of the &lt;em&gt;B. lanceolatum&lt;/em&gt; genome (see &lt;a href=&quot;http://amphiencode.github.io/Data&quot;&gt;Data&lt;/a&gt; and we also put this website online because we felt some information about these datasets was necessary, and it was the best way to provide it. We will update this site in the future with news of the project, related publications and corresponding  datasets . Please feel free to send us feedback about which improvement we can make, and which information you would like to see here!&lt;/p&gt;
+   <content type="html">&lt;p&gt;We decided to release the assembly and annotation of the European amphioxus &lt;em&gt;B. lanceolatum&lt;/em&gt; genome (see &lt;a href=&quot;http://amphiencode.github.io/Data&quot;&gt;Data&lt;/a&gt;) and we also put this website online because we felt some information about these datasets was necessary, and it was the best way to provide it. We will update this site in the future with news of the project, related publications and corresponding  datasets . Please feel free to send us feedback about which improvement we can make, and which information you would like to see here!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://amphiencode.github.io/pics/e4.png&quot; alt=&quot;blanc&quot; /&gt;&lt;/p&gt;
 </content>
