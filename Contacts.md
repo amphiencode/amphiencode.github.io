@@ -17,7 +17,7 @@ Please do not hesitate to contact us if you have a specific question:
 [Manuel Irimia](http://www.crg.eu/en/manuel_irimia), CRG, Barcelona, Spain   
 *Annotation and RNA-seq data*
 
-[Ozren Bogdanociv, Ryan Lister](http://listerlab.org/people.html), The University of Western Australia   
+[Ozren Bogdanovic, Ryan Lister](http://listerlab.org/people.html), The University of Western Australia   
 *Methylation data*
 
 [Piotr Balwierz, Boris Lehnhard](http://group.genereg.net/people/), Imperial College London and MRC Clinical Sciences Centre in London  
