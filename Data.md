@@ -16,12 +16,12 @@ The genome was annotated using both EVM/PASA pipeline and cufflinks/transdecoder
 
 |File   |Dataset   | Format |
 |---|---|---|
-| **[Bl71nemr.fa](https://www.dropbox.com/s/4bwtoi217oplwef/Bl71nemr.fa.gz?dl=1)**  | Genome assembly  | fasta |
+| **[Bl71nemr.fa](https://www.dropbox.com/s/r9s9wd3osyf6zud/Bl71nemr.fa.gz?dl=1)**  | Genome assembly  | fasta |
 | **[Bla_annot_final.gtf](https://www.dropbox.com/s/q5zdshvos94r0pn/Bla_annot_final.gtf.gz?dl=1)** | Final merged annotation (EVM/PASA+cufflinks)  | GTF | 
-| **[Bla_annot_evm.gtf](https://www.dropbox.com/s/j3ul5orz1wj0v66/Bla_annot_evm.gtf.gz?dl=1)**| EVM/PASA annotation | GTF |
-| **[Bla_annot_cuff.gtf](https://www.dropbox.com/s/dtiql5qpjcoi9y3/Bla_annot_cuff.gtf.gz?dl=1)** | Cufflinks annotation | GTF |
-| **[Bla_annot_final_refTranscripts.fa](https://www.dropbox.com/s/a9zzzgqqy0fvskg/Bla_annot_final_refTranscripts.fa.gz?dl=1)**| Reference transcripts* | fasta |
-| **[Bla_annot_final_refProteins.fa](https://www.dropbox.com/s/hoyt0byn3a9pohz/Bla_annot_final_refProteins.fa.gz?dl=1)**| Reference proteins** | fasta |
+| **[Bla_annot_evm.gtf](https://www.dropbox.com/s/d4fqnoa8gdix3pa/Bla_annot_final.gtf.gz?dl=1)**| EVM/PASA annotation | GTF |
+| **[Bla_annot_cuff.gtf](https://www.dropbox.com/s/ow1v90mfflk070b/Bla_annot_cuff.gtf.gz?dl=1)** | Cufflinks annotation | GTF |
+| **[Bla_annot_final_refTranscripts.fa](https://www.dropbox.com/s/15mgn0388gmunzl/Bla_annot_final_refTranscripts.fa.gz?dl=1)**| Reference transcripts* | fasta |
+| **[Bla_annot_final_refProteins.fa](https://www.dropbox.com/s/g03qgqbr98076vs/Bla_annot_final_refProteins.fa.gz?dl=1)**| Reference proteins** | fasta |
 
 *(\*) most expressed transcript for each locus; (\*\*) longest protein for each locus*
 
