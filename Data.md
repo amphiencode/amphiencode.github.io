@@ -17,7 +17,7 @@ The genome was annotated using both EVM/PASA pipeline and cufflinks/transdecoder
 |File   |Dataset   | Format |
 |---|---|---|
 | **[Bl71nemr.fa](https://www.dropbox.com/s/r9s9wd3osyf6zud/Bl71nemr.fa.gz?dl=1)**  | Genome assembly  | fasta |
-| **[Bla_annot_final.gtf](https://www.dropbox.com/s/q5zdshvos94r0pn/Bla_annot_final.gtf.gz?dl=1)** | Final merged annotation (EVM/PASA+cufflinks)  | GTF | 
+| **[Bla_annot_final.gtf](https://www.dropbox.com/s/d4fqnoa8gdix3pa/Bla_annot_final.gtf.gz?dl=1)** | Final merged annotation (EVM/PASA+cufflinks)  | GTF | 
 | **[Bla_annot_evm.gtf](https://www.dropbox.com/s/d4fqnoa8gdix3pa/Bla_annot_final.gtf.gz?dl=1)**| EVM/PASA annotation | GTF |
 | **[Bla_annot_cuff.gtf](https://www.dropbox.com/s/ow1v90mfflk070b/Bla_annot_cuff.gtf.gz?dl=1)** | Cufflinks annotation | GTF |
 | **[Bla_annot_final_refTranscripts.fa](https://www.dropbox.com/s/15mgn0388gmunzl/Bla_annot_final_refTranscripts.fa.gz?dl=1)**| Reference transcripts* | fasta |
