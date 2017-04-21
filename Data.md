@@ -20,10 +20,12 @@ The genome was annotated using both EVM/PASA pipeline and cufflinks/transdecoder
 | **[Bla_annot_final.gtf](https://www.dropbox.com/s/d4fqnoa8gdix3pa/Bla_annot_final.gtf.gz?dl=1)** | Final merged annotation (EVM/PASA+cufflinks)  | GTF |
 | **[Bla_annot_evm.gtf](https://www.dropbox.com/s/d4fqnoa8gdix3pa/Bla_annot_final.gtf.gz?dl=1)**| EVM/PASA annotation | GTF |
 | **[Bla_annot_cuff.gtf](https://www.dropbox.com/s/ow1v90mfflk070b/Bla_annot_cuff.gtf.gz?dl=1)** | Cufflinks annotation | GTF |
-| **[Bla_annot_final_refTranscripts.fa](https://www.dropbox.com/s/15mgn0388gmunzl/Bla_annot_final_refTranscripts.fa.gz?dl=1)**| Reference transcripts* | fasta |
-| **[Bla_annot_final_refProteins.fa](https://www.dropbox.com/s/g03qgqbr98076vs/Bla_annot_final_refProteins.fa.gz?dl=1)**| Reference proteins** | fasta |
+| **[Bla_annot_final_v4.fa](https://www.dropbox.com/s/3an2j8vd7ljwm47/Bla_annot_final_v4.fa.gz?dl=1)** | All full transcripts (coding and non-coding) | fasta |
+| **[Bla_annot_v4_best_Aac.fa](https://www.dropbox.com/s/8853oz3c977nxdn/Bla_annot_v4_best_Aac.fa.gz?dl=1)**| Reference protein*  | fasta |
+| **[Bla_annot_v4_best_Cds.fa](https://www.dropbox.com/s/tkzkuo4gq25v11g/Bla_annot_v4_best_Cds.fa.gz?dl=1)**| Reference CDS*  | fasta |
+| **[Bla_annot_v4_best_Tra.fa](https://www.dropbox.com/s/6by9yx915jyba7a/Bla_annot_v4_best_Tra.fa.gz?dl=1)**| Reference transcripts*  | fasta |
 
-*(\*) most expressed transcript for each locus; (\*\*) longest protein for each locus*
+*(\*) most highly expressed transcript for each coding locus (35961)
 
 ## Blast server
 
@@ -34,4 +36,4 @@ A **[blast server](http://zoo-animalia.zoo.ox.ac.uk/blastseq04)** makes it possi
 The European amphioxus genome assembly and annotation are available as a [UCSC track hub](https://genome.ucsc.edu/goldenPath/help/hgTrackHubHelp.html). The assembly should be searchable using BLAT. To enable access, you can either:
 
 - Use the [following UCSC session](http://genome-euro.ucsc.edu/cgi-bin/hgTracks?hgS_doOtherUser=submit&hgS_otherUserName=fmarletaz&hgS_otherUserSessionName=basic_braLan1)
-- set up the hub by adding the hub address `http://zoo-animalia.zoo.ox.ac.uk/BraLan/hub.txt` to `My Data > Track Hubs > My hubs` in UCSC menu. 
+- set up the hub by adding the hub address `http://zoo-animalia.zoo.ox.ac.uk/BraLan/hub.txt` to `My Data > Track Hubs > My hubs` in UCSC menu.
