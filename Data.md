@@ -35,5 +35,5 @@ A **[blast server](http://zoo-animalia.zoo.ox.ac.uk/blastseq04)** makes it possi
 
 The European amphioxus genome assembly and annotation are available as a [UCSC track hub](https://genome.ucsc.edu/goldenPath/help/hgTrackHubHelp.html). The assembly should be searchable using BLAT. To enable access, you can either:
 
-- Use the [following UCSC session](http://genome-euro.ucsc.edu/cgi-bin/hgTracks?hgS_doOtherUser=submit&hgS_otherUserName=fmarletaz&hgS_otherUserSessionName=basic_braLan1)
-- set up the hub by adding the hub address `http://zoo-animalia.zoo.ox.ac.uk/BraLan/hub.txt` to `My Data > Track Hubs > My hubs` in UCSC menu.
+- Use the [following UCSC session](https://genome-asia.ucsc.edu/cgi-bin/hgTracks?hgS_doOtherUser=submit&hgS_otherUserName=fmarletaz&hgS_otherUserSessionName=hub_78274_BraLan2)
+- set up the hub by adding the hub address `http://193.147.188.155/hubs/BraLan/hub.txt` to `My Data > Track Hubs > My hubs` in UCSC menu.
