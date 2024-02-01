@@ -3,8 +3,7 @@ layout: page
 title: Data
 ---
 
-<div class="message">
-  <b><u>Disclaimer:</u> This dataset is made available to the members of the European amphioxus genome consortium as collaborative material. These datasets are not to be used for whole genome analyses unless otherwise agreed for, and not to be redistributed to anybody outside the consortium without prior arrangements. The functional genomics data (ATAC-seq, Chip-seq, Methylation, RNA-seq) included in the browser are provided as a courtesy by several participant labs and remain their property (see contacts).</b></div>
+Please note that there is a newer genome assembly (braLan3). Please check [Brasó-Vives et al Genome Biol 2022](https://pubmed.ncbi.nlm.nih.gov/36401278/).
 
 ## Datasets
 
@@ -29,7 +28,7 @@ The genome was annotated using both EVM/PASA pipeline and cufflinks/transdecoder
 
 ## Blast server
 
-A **[blast server](http://zoo-animalia.zoo.ox.ac.uk/blastseq04)** makes it possible to search the assembly, the reference transcripts and proteins.
+A **blast server** makes it possible to search the assembly, the reference transcripts and proteins. (The blast server is no longer active)
 
 ## Genome browser
 
